@@ -213,3 +213,19 @@ xrb
 ![image-20221201120827990](./Document/images/tools.png)
 
 只是做了个添加尝试，大致可行，之后需改原理图+调布局了
+
+#### 12/1
+
+wz
+
+移动了ethernet uart usb-otg的位置到板卡下方。
+
+连接了lvds，ethernet，uart，并完成了lvds和ethernet的等长。
+
+但是等长似乎在保存之后会混乱，需要重新做一次等长才有效果，不确定是否正确。
+
+
+
+调整了ethernet的pcb库，似乎之前的是反的。
+
+usb这边暂时没有连接，不确定相关元件与等长配合的连接方式。
