@@ -231,7 +231,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=IYDCUKDF
 
 [Document12]
 DocumentPath=MY-I.MX6-SCH_Library.SchLib
@@ -248,7 +248,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=SMCMQILE
 
 [Document13]
 DocumentPath=PCB1.PcbDoc
@@ -386,7 +386,7 @@ OutputDefault20=0
 [OutputGroup2]
 Name=Simulator Outputs
 Description=
-TargetPrinter=Foxit PDF Reader Printer
+TargetPrinter=Wondershare PDF Expert
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 
 [OutputGroup3]
